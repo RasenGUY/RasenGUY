@@ -6,7 +6,7 @@
 </p>
 
 ### 🔭 I'm currently working on
-- Enabling L2 builders at Consensy
+- Enabling L2 builders at Consensys
 - Protocol integration and developer tooling
 
 ### 🌱 Experience
