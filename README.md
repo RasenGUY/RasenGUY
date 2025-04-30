@@ -18,7 +18,7 @@
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RasenGUY&show_icons=true&theme=radical" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RasenGUY&theme=radical" alt="streak"/>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RasenGUY&theme=radical" alt="streak"/> -->
 </p>
 
 ### 🛠 Tech Stack
@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ### 📫 Connect with me
