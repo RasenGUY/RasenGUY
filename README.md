@@ -6,10 +6,11 @@
 </p>
 
 ### 🔭 I'm currently working on
-- Enabling L2 builders at Consensys
+- Agentic workflows applied to content generation and automation 
 - Protocol integration and developer tooling
 
 ### 🌱 Experience
+- Ex-Consensys
 - Protocol Development & Integration
 - Layer 2 Solutions & Scalability
 - Smart Contract Development
